@@ -30,7 +30,6 @@ function App() {
         {!meetingStarted ? (
           // Render the form when the meeting hasn't started
           <header className="App-header flex flex-col justify-center items-center min-h-screen bg-gray-100">
-
           <>
             <h1 className="text-4xl font-bold text-gray-800 text-center mb-8">Jitsi Meeting App</h1>
             <p className="mb-6 text-center text-xl text-gray-600 font-serif">Enter Your Name to Join the Meeting</p>
