@@ -1,6 +1,7 @@
 {
   "name": "showcase-jitsi-react-sdk",
   "version": "0.1.0",
+  "homepage": "https://akarms.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@jitsi/react-sdk": "^1.4.0",
